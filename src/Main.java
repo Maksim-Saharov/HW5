@@ -49,8 +49,8 @@ public class Main {
             }
 
 
-            int mounthNumber = 12;
-            switch (mounthNumber) {
+            int monthNumber = 12;
+            switch (monthNumber) {
                 case 1 :
                 case 2 :
                 case 12 :
